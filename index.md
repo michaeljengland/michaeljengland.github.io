@@ -8,7 +8,7 @@
 <img src="images/mediocre-studio-1Gvog1VdtDA-unsplash.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://public.tableau.com/app/profile/michael.england3059/viz/CoronavirusVaccinationTracker/Dashboard1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
