@@ -4,7 +4,11 @@
 
 ### Category Name 1 
 
-<h2 href="https://github.com/michaeljengland/Building-a-Spam-Filter-with-Naive-Bayes">Building a Spam Filter with Naive Bayes</h2>
+<h2>
+  <a href="https://github.com/michaeljengland/Building-a-Spam-Filter-with-Naive-Bayes">
+    Building a Spam Filter with Naive Bayes
+  </a>
+    </h2>
 <img src="images/mediocre-studio-1Gvog1VdtDA-unsplash.jpg?raw=true"/>
 
 ---
