@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Building a Spam Filter with Naive Bayes]([/sample_page](https://github.com/michaeljengland/Building-a-Spam-Filter-with-Naive-Bayes))
+[Building a Spam Filter with Naive Bayes](https://github.com/michaeljengland/Building-a-Spam-Filter-with-Naive-Bayes/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
